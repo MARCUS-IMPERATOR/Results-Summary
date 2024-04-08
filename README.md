@@ -28,7 +28,7 @@ Users should be able to:
 ![Screenshot](images/Screenshot.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://github.com/MARCUS-IMPERATOR/Results-Summary)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
